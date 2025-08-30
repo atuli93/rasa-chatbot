@@ -72,7 +72,7 @@ rasa test
 --- 
 
 # Project Structure
-rasa-chatbot/
+```rasa-chatbot/
 ├── .gitignore                 # Excludes virtual environments, models, cache, etc. from Git
 ├── README.md                  # Project overview, setup instructions, usage, etc.
 ├── config.yml                 # Rasa pipeline and policies configuration
@@ -90,8 +90,9 @@ rasa-chatbot/
 ├── logs/                      # Logs generated during bot execution (optional)
 ├── .venv/                     # Python virtual environment (ignored in Git)
 └── tests/                     # Optional test scripts or test data
+```
 
-
+---
 
 # Contribution
 
