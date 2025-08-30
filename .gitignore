@@ -14,3 +14,4 @@ models/
 .venv38/
 .venv/
 models/
+.rasa/cache/
