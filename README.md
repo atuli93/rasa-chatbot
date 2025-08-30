@@ -99,7 +99,8 @@ rasa test
 **Contributions are welcome!**
 **Please submit a pull request or open an issue for suggestions or bugs.**
 
-# License
 
-**This project is licensed under the MIT License.**
+## 📜 License
 
+MIT License © 2025 [Atul Kumar](https://github.com/atuli93)  
+See [LICENSE](LICENSE) for details.
