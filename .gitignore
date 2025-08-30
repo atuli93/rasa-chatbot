@@ -1,17 +1,35 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
+# Python virtual environments
 .venv/
+venv/
+env/
+.env/
 
-# Rasa models
+# Rasa models (trained models)
 models/
-*.db
-.venv38/
-.venv38/
-.venv/
-models/
+
+# Rasa cache files
 .rasa/cache/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE files (optional)
+.vscode/
+.idea/
