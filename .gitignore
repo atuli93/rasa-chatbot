@@ -10,3 +10,4 @@ __pycache__/
 # Rasa models
 models/
 *.db
+.venv38/
