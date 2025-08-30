@@ -12,3 +12,5 @@ models/
 *.db
 .venv38/
 .venv38/
+.venv/
+models/
